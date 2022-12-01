@@ -1,5 +1,7 @@
 # Differential_Privacy_CPS
 
+Computational Foundations of Cyber-Physical Systems, IIT KGP Spring 2021 Group Project
+
 Python implementation of the research paper **Leveraging Unique CPS Properties to Design Better Privacy-Enhancing Algorithms**
 
 References:
